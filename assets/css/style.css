@@ -1,5 +1,5 @@
-html { font-size: 62.5%; } 
-body { font-size: 1.4rem; background: #EEE;} 
+html { font-size: 70%; } 
+body { font-size: 1.4rem; background: #20292d;} 
 
 pre {
   overflow: auto;
@@ -75,6 +75,7 @@ h5 {
 }
 
 p {
+    font-size: 1.8rem;
     font-weight: 300;
 }
 
